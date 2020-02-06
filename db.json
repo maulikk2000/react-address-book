@@ -1,0 +1,17 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "First 0",
+      "lastName": "Last",
+      "address": "Sample street 123",
+      "city": "Seattle",
+      "region": "asdff",
+      "country": "USA",
+      "postalCode": "98087",
+      "phone": "12345678",
+      "email": "a@a.com",
+      "age": "15"
+    }
+  ]
+}
